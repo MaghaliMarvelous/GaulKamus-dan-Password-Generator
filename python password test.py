@@ -1,6 +1,6 @@
 import random
 element = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
-panjang_password = int(input("Paswordnya mau berapa karakter?"))
+panjang_password = int(input("Passwordnya mau berapa karakter?"))
 
 password = ""
 for i in range(panjang_password):
